@@ -18,7 +18,7 @@ Here are some of the key skills and technologies I specialize in:
 - **Docker:** Harnessing the power of containers for consistent and scalable deployments.
 - **Kubernetes:** Orchestration of containerized applications to simplify scaling and management.
 - **Jenkins:** Building robust CI/CD pipelines for automated software delivery.
-- **AWS CloudFormation:** Defining infrastructure as code to enable consistent and reproducible deployments.
+- **Terraform:** Defining infrastructure as code to enable consistent and reproducible deployments.
 - **Ansible:** Automating infrastructure and configuration management for efficiency.
 
 ## 📂 GitHub Projects
