@@ -35,13 +35,11 @@ Welcome to my GitHub! I'm a passionate DevOps Engineer with 2+ years of experien
 
 🔹 **[Complete GitOps Pipeline](https://github.com/git-akshay-jadhav/web-app-gitops)** - End-to-end GitOps workflow with Docker, Kubernetes & ArgoCD  
 🔹 **[AWS Cost Optimization](https://github.com/git-akshay-jadhav/Cost-Optimization)** - Lambda-based solution for automated EBS snapshot cleanup  
-🔹 **[DevSecOps Netflix Clone](link)** - Secure CI/CD pipeline with Jenkins, Docker & monitoring stack
 
 ### 📝 Latest Blog Posts
 
 - [Complete GitOps Guide: Building a Modern CI/CD Pipeline](https://akshay-jadhav.hashnode.dev/complete-gitops-guide-building-a-modern-cicd-pipeline-with-docker-kubernetes-and-argocd)
 - [AWS Lambda Cost Optimization Project](https://akshay-jadhav.hashnode.dev/aws-lambda-cost-optimization-project)
-- [DevSecOps: Building Secure Applications on AWS](https://akshay-jadhav.hashnode.dev/)
 
 ### 🤝 Let's Connect!
 
