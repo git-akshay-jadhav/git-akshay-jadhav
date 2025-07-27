@@ -1,34 +1,74 @@
+# Hi there, I'm Akshay Jadhav! 👋
 
+## 🚀 DevOps Engineer | Cloud Automation Enthusiast | Open Source Contributor
 
-# Akshay Jadhav - DevOps Engineer
+Welcome to my GitHub! I'm a passionate DevOps Engineer with 2+ years of experience in cloud infrastructure automation, CI/CD pipeline development, and container orchestration.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin)](https://www.linkedin.com/in/akshay-jadhav-devops/)
+### 🔧 Tech Stack & Tools
 
-## 🚀 About Me
+**Cloud & Infrastructure:**
+- ☁️ AWS (EC2, S3, Lambda, EKS, IAM, VPC)
+- 🏗️ Infrastructure as Code: Terraform, Ansible
+- 🐳 Containerization: Docker, Kubernetes, Helm
 
-Welcome to my Git profile! I'm Akshay Jadhav, a DevOps engineer with a passion for crafting reliable and scalable software solutions. My journey in technology has been driven by a relentless pursuit of efficiency, scalability, and innovation.
+**CI/CD & Automation:**
+- 🔄 Jenkins, GitHub Actions
+- 📦 GitOps with ArgoCD
+- 🔧 Bash/Shell Scripting, Python
 
-## 💼 Skills
+**Monitoring & Observability:**
+- 📊 Prometheus, Grafana
+- 📈 CloudWatch, Uptime Kuma
 
-Here are some of the key skills and technologies I specialize in:
+**Databases:**
+- 🗄️ PostgreSQL, MongoDB
 
-- **AWS (Amazon Web Services):** Crafting scalable and resilient cloud solutions using various AWS services.
-- **Linux:** Fine-tuning and securing Linux environments for peak performance.
-- **Git:** Version control and collaborative software development made efficient.
-- **Docker:** Harnessing the power of containers for consistent and scalable deployments.
-- **Kubernetes:** Orchestration of containerized applications to simplify scaling and management.
-- **Jenkins:** Building robust CI/CD pipelines for automated software delivery.
-- **Terraform:** Defining infrastructure as code to enable consistent and reproducible deployments.
-- **Ansible:** Automating infrastructure and configuration management for efficiency.
+### 🎯 What I Do
 
-## 📂 GitHub Projects
+- 🚀 Build scalable CI/CD pipelines that reduce deployment time by 60%
+- ☁️ Design and implement cloud-native architectures on AWS
+- 🤖 Automate infrastructure provisioning and configuration management
+- 💰 Optimize cloud costs through intelligent resource management
+- 📚 Share knowledge through technical blogs and open-source contributions
 
-You'll find a curated collection of my open-source projects and contributions here on my GitHub profile. Each project reflects my commitment to excellence in DevOps practices, from automation scripts to CI/CD pipelines.
+### 🌟 Featured Projects
 
-Feel free to explore my repositories, and if you have any questions or wish to collaborate, don't hesitate to reach out!
+🔹 **[Complete GitOps Pipeline](https://github.com/git-akshay-jadhav/web-app-gitops)** - End-to-end GitOps workflow with Docker, Kubernetes & ArgoCD  
+🔹 **[AWS Cost Optimization](https://github.com/git-akshay-jadhav/Cost-Optimization)** - Lambda-based solution for automated EBS snapshot cleanup  
+🔹 **[DevSecOps Netflix Clone](link)** - Secure CI/CD pipeline with Jenkins, Docker & monitoring stack
 
-## 📫 Contact Me
+### 📊 GitHub Stats
 
-Let's connect and explore possibilities in the world of DevOps! Feel free to reach out to me via email at akshay1669@gmail.com or on [LinkedIn](https://www.linkedin.com/in/akshay-jadhav-devops/) to discuss projects, share insights, or simply have a tech-related conversation.
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-akshay-jadhav&show_icons=true&theme=dark)
 
-Thank you for visiting my Git profile! 🌟
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-akshay-jadhav&layout=compact&theme=dark)
+
+### 📝 Latest Blog Posts
+
+- [Complete GitOps Guide: Building a Modern CI/CD Pipeline](https://akshay-jadhav.hashnode.dev/complete-gitops-guide-building-a-modern-cicd-pipeline-with-docker-kubernetes-and-argocd)
+- [AWS Lambda Cost Optimization Project](https://akshay-jadhav.hashnode.dev/aws-lambda-cost-optimization-project)
+- [DevSecOps: Building Secure Applications on AWS](https://akshay-jadhav.hashnode.dev/)
+
+### 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/akshay-devops)
+- 📧 [Email](mailto:akshay1669@gmail.com)
+- 📝 [Technical Blog](https://akshay-jadhav.hashnode.dev/)
+- 📍 Based in Hyderabad, India
+
+### 💡 Fun Facts
+
+- 🎯 Reduced deployment time by 60% through automation
+- ☁️ AWS cloud infrastructure enthusiast
+- 📚 Active technical blogger and knowledge sharer
+- 🔄 Believer in GitOps and Infrastructure as Code
+
+---
+
+⭐ **"Automating today for a better tomorrow"** ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=git-akshay-jadhav&color=brightgreen)
+
+---
+
+*Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a chat about DevOps! 🚀*
