@@ -1,66 +1,148 @@
-# Hi there, I'm Akshay Jadhav! 👋
+# Hi there! 👋 I'm a DevOps Engineer
 
-## 🚀 DevOps Engineer | Cloud Automation Enthusiast | Open Source Contributor
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Cloud+Infrastructure+Specialist;CI%2FCD+Pipeline+Architect;Kubernetes+%26+Docker+Expert;Automation+Enthusiast" alt="Typing SVG" />
+</div>
 
-Welcome to my GitHub! I'm a passionate DevOps Engineer with 2+ years of experience in cloud infrastructure automation, CI/CD pipeline development, and container orchestration.
+## 🚀 What I Do
 
-### 🔧 Tech Stack & Tools
+```yaml
+name: DevOps Engineer
+located_in: India
+current_focus: 
+  - Building scalable cloud infrastructure
+  - Automating everything possible
+  - Container orchestration magic
+  - Cost optimization wizardry
 
-**Cloud & Infrastructure:**
-- ☁️ AWS (EC2, S3, Lambda, EKS, IAM, VPC)
-- 🏗️ Infrastructure as Code: Terraform, Ansible
-- 🐳 Containerization: Docker, Kubernetes, Helm
+daily_tools: [AWS, Docker, Kubernetes, Terraform, Python]
+```
 
-**CI/CD & Automation:**
-- 🔄 Jenkins, GitHub Actions
-- 📦 GitOps with ArgoCD
-- 🔧 Bash/Shell Scripting, Python
+## 💻 Tech Stack
 
-**Monitoring & Observability:**
-- 📊 Prometheus, Grafana
-- 📈 CloudWatch, Uptime Kuma
+<div align="center">
 
-**Databases:**
-- 🗄️ PostgreSQL, MongoDB
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 🎯 What I Do
+**Containers & Orchestration**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-- 🚀 Build scalable CI/CD pipelines that reduce deployment time by 60%
-- ☁️ Design and implement cloud-native architectures on AWS
-- 🤖 Automate infrastructure provisioning and configuration management
-- 💰 Optimize cloud costs through intelligent resource management
-- 📚 Share knowledge through technical blogs and open-source contributions
+**CI/CD & DevOps**  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🌟 Featured Projects
+**Monitoring & Observability**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-🔹 **[Complete GitOps Pipeline](https://github.com/git-akshay-jadhav/web-app-gitops)** - End-to-end GitOps workflow with Docker, Kubernetes & ArgoCD  
-🔹 **[AWS Cost Optimization](https://github.com/git-akshay-jadhav/Cost-Optimization)** - Lambda-based solution for automated EBS snapshot cleanup  
+**Programming & Scripting**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 📝 Latest Blog Posts
+</div>
 
-- [Complete GitOps Guide: Building a Modern CI/CD Pipeline](https://akshay-jadhav.hashnode.dev/complete-gitops-guide-building-a-modern-cicd-pipeline-with-docker-kubernetes-and-argocd)
-- [AWS Lambda Cost Optimization Project](https://akshay-jadhav.hashnode.dev/aws-lambda-cost-optimization-project)
+## 🎯 Specialization Areas
 
-### 🤝 Let's Connect!
+<table>
+<tr>
+<td width="50%">
 
-- 💼 [LinkedIn](https://linkedin.com/in/akshay-devops)
-- 📧 [Email](mailto:akshay1669@gmail.com)
-- 📝 [Technical Blog](https://akshay-jadhav.hashnode.dev/)
-- 📍 Based in Hyderabad, India
+### ☁️ Cloud Architecture
+- AWS Infrastructure Design
+- Multi-region Deployments  
+- Cost Optimization Strategies
+- Security Best Practices
 
-### 💡 Fun Facts
+</td>
+<td width="50%">
 
-- 🎯 Reduced deployment time by 60% through automation
-- ☁️ AWS cloud infrastructure enthusiast
-- 📚 Active technical blogger and knowledge sharer
-- 🔄 Believer in GitOps and Infrastructure as Code
+### 🔄 Automation & CI/CD
+- Pipeline Architecture
+- GitOps Workflows
+- Infrastructure as Code
+- Deployment Automation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📦 Containerization
+- Docker Optimization
+- Kubernetes Orchestration
+- Microservices Architecture
+- Container Security
+
+</td>
+<td width="50%">
+
+### 📊 Monitoring & SRE
+- Observability Solutions
+- Performance Optimization
+- Incident Response
+- Reliability Engineering
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎯 **GitOps Pipeline** | Complete CI/CD automation with ArgoCD | `Docker` `Kubernetes` `ArgoCD` `GitHub Actions` |
+| 💰 **AWS Cost Optimizer** | Automated cost reduction solution | `Python` `AWS Lambda` `CloudWatch` |
+
+</div>
+
+## 🏆 Certifications
+
+<div align="center">
+  
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+## 📊 Quick Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🌟 Fun Facts
+
+```python
+class DevOpsEngineer:
+    def __init__(self):
+        self.name = "DevOps Engineer"
+        self.role = "Infrastructure Automation Specialist"
+        self.language_spoken = ["Python", "YAML", "Bash"]
+        
+    def say_hi(self):
+        print("Thanks for visiting! Let's automate the world together! 🚀")
+
+me = DevOpsEngineer()
+me.say_hi()
+```
+
+<div align="center">
+  
+### 💬 Let's Connect and Build Something Amazing!
+
+*"Automating today for a better tomorrow"* ✨
+
+</div>
 
 ---
 
-⭐ **"Automating today for a better tomorrow"** ⭐
-
-![Profile Views](https://komarev.com/ghpvc/?username=git-akshay-jadhav&color=brightgreen)
-
----
-
-*Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a chat about DevOps! 🚀*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
