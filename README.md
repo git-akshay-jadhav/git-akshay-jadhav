@@ -111,12 +111,6 @@ daily_tools: [AWS, Docker, Kubernetes, Terraform, Python]
 
 </div>
 
-## 📊 Quick Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🌟 Fun Facts
 
 ```python
